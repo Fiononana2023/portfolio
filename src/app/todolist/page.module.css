@@ -1,0 +1,58 @@
+.todos {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  min-height: 90vh;
+}
+.todo {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.listInput {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.todoInput {
+  font-size: 1.2rem;
+  padding: 10px;
+  margin-right: 10px;
+  flex-grow: 1;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.buttonTodo {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background-color: #03660b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.buttonDelete {
+  padding: 10px;
+  background-color: #f44336;
+  color: whitesmoke;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.buttonEdit {
+  background-color: #2196f3;
+  padding: 10px;
+  color: whitesmoke;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 70px;
+  margin: 10px;
+}

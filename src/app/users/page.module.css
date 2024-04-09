@@ -1,0 +1,11 @@
+.Users {
+  border: 1px solid grey;
+  border-radius: 20px;
+  width: 55%;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 20px;
+  background-color: gainsboro;
+  box-shadow: 15px 15px 10px;
+}
